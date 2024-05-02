@@ -1,4 +1,4 @@
-!pip install fastai
+
 
 from fastai.vision.widgets import *
 from fastai.vision.all import *
